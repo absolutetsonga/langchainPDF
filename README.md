@@ -1,4 +1,4 @@
-# Ask Your PDF
+# langchainPDF
 
 This is a Streamlit web application that allows you to upload a PDF file and ask questions about its content. The application extracts text from the PDF, splits it into smaller chunks, creates embeddings for each chunk, and builds a knowledge base. You can then enter a question related to the PDF, and the application will search for relevant information and provide an answer.
 
